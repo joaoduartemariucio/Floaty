@@ -32,7 +32,7 @@ github "kciter/Floaty"
 Once you have your Swift package set up, adding Floaty as a dependency is as easy as adding it to the dependencies value of your `Package.swift`.
 ```swift
 dependencies: [
-    .package(url: "https://github.com/kciter/Floaty.git", from: "4.2.1")
+    .package(url: https://github.com/joaoduartemariucio/Floaty", from: "4.3.0")
 ]
 ```
 
